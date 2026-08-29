@@ -2,6 +2,28 @@
 
 > An end-to-end data analytics project analyzing food delivery transactions, customer behavior, restaurant performance, product sales, and delivery operations using **Python, SQL, Supabase PostgreSQL, and Metabase**.
 
+## 💡 Key Business Insights
+
+The analysis helps answer important business questions such as:
+
+1. Which cities generate the highest revenue?  
+2. Which restaurants receive the most orders?  
+3. Which cuisines contribute the most revenue?  
+4. Who are the highest-value customers?  
+5. Which customer segments generate the most revenue?  
+6. How does revenue change month over month?  
+7. What percentage of orders are cancelled?  
+8. Which restaurants have the highest average order value?  
+9. Which cities have the strongest restaurant performance?  
+10. Why did revenue decline in February compared to January?  
+11. Was the decline caused by fewer orders or lower customer spending?  
+12. Did the cancellation rate increase in February?  
+13. Which cities contributed most to the revenue decline?  
+14. Which cuisines experienced the largest revenue drop?  
+15. Which restaurants were most affected?  
+16. What factors contributed to the revenue recovery in March?
+
+
 ---
 
 ## 📌 Project Overview
@@ -167,7 +189,7 @@ This section investigates **why revenue decreased in February compared to Januar
 - **Restaurant Performance** — Identifying restaurants responsible for major revenue changes.
 
 ### Dashboard Preview
-![Delivery & Operations Analytics](Dashboard/3.png)
+![Delivery & Operations Analytics](Dashboard/4.png)
 
 ## 🎯 Business Objectives
 
@@ -182,21 +204,9 @@ The primary objectives of this project are to:
 7. Analyze order cancellations and operational performance.
 8. Generate actionable business insights using data.
 
+
+
 ---
-
-## 💡 Key Business Insights
-
-The analysis helps answer important business questions such as:
-
-* Which cities generate the highest revenue?
-* Which restaurants receive the most orders?
-* Which cuisines contribute the most revenue?
-* Who are the highest-value customers?
-* Which customer segments generate the most revenue?
-* How does revenue change month over month?
-* What percentage of orders are cancelled?
-* Which restaurants have the highest average order value?
-* Which cities have the strongest restaurant performance?
 
 
 
