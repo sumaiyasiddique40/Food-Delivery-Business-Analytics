@@ -153,6 +153,22 @@ Focuses on delivery performance, operational efficiency, order fulfillment, and 
 
 ---
 
+## 04. 🔎 Revenue Root Cause Analysis
+
+This section investigates **why revenue decreased in February compared to January and how the business recovered in March**.
+
+### 🔍 Key Factors Analyzed
+
+- **Order Volume** — Identifying whether the number of completed orders decreased or increased.
+- **Average Order Value (AOV)** — Measuring changes in average customer spending per order.
+- **Cancellation Rate** — Analyzing whether increased cancellations affected completed orders and revenue.
+- **City-wise Performance** — Identifying cities that contributed most to the revenue decline or recovery.
+- **Cuisine-wise Performance** — Identifying cuisines with significant changes in revenue and order volume.
+- **Restaurant Performance** — Identifying restaurants responsible for major revenue changes.
+
+### Dashboard Preview
+![Delivery & Operations Analytics](Dashboard/3.png)
+
 ## 🎯 Business Objectives
 
 The primary objectives of this project are to:
